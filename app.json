@@ -30,7 +30,7 @@
 
         "OWNER": {
             "description": "Get ur Id Of Telegram nd Paste Here.",
-            "value": ""
+            "value": "6186511950"
         },
 
         "MONGO_SRV": {
