@@ -35,7 +35,7 @@
 
         "MONGO_SRV": {
             "description": "Mongo SRV from mongo db.",
-            "value": ""
+            "value": "mongodb+srv://nanoclipzone:gO930Nwej7NqYpdl@weoxy.5diki.mongodb.net/?retryWrites=true&w=majority&appName=Weoxy"
         },
 
         "MAIN_CHANNEL": {
