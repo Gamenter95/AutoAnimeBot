@@ -4,33 +4,33 @@
     "logo": "https://graph.org/file/ad1b25807b81cdf1dff65.jpg",
     "keywords": ["Telegram","python", "anime","Compressor","Encoder", "ongoing"],
     "repository": "https://github.com/kaif-00z/AutoAnimeBot",
-    "success_url": "https://t.me/BotsBakery",
+    "success_url": "https://t.me/weoo_animes",
     "stack": "container",
     "env": {
         "API_ID": {
             "description": "You api id, from my.telegram.org",
-            "value": ""
+            "value": "23197331"
         },
 
         "API_HASH": {
             "description": "You api hash, from my.telegram.org",
-            "value": ""
+            "value": "3856fe9ded41c39fdd0a1546abd187fa"
         },
 
         "BOT_TOKEN": {
             "description": "Make a bot from @BotFather, and enter it's api token here.",
-            "value": ""
+            "value": "7885416501:AAH7zej5Hbu2Y-CjJ1wu25wFbsfohF7auGw"
         },
 
         "SESSION": {
             "description": "Telethon Session String",
-            "value": "",
+            "value": "1BVtsOKEBu8Gxq7-2KooIpGhO8octYOC1n7E1yU0gX5uqMlkEXrA85I_LseOQDXZiw3z0iOUykN3jxSvvvz7VvvLw2CzyLZPJlVpRIKXHKV4k9ZrlzXzThha4H-hNGjFdAIlBMsKSyR8rC_C2KZMYR2zqjEMpFZWbYBRMYn4Nio7nf49E8ePBzL1qq2KYIDjKWMjmWMav-tyEagho4TiG6zy65phU0XoX5Ua2NEUxNLIyQ3RtovfY7mzdZXPtGUFsKEqwurcX_dg5JwLTPjegmofpKwatjEGfA_nUvBINyiFQ4DCIZuTbf5PphhSmaSnzAZk8whS_MzpOZd90_aicAsyBkpdvIs0=",
             "required": false
         },
 
         "OWNER": {
             "description": "Get ur Id Of Telegram nd Paste Here.",
-            "value": "6186511950"
+            "value": "6547868537"
         },
 
         "MONGO_SRV": {
@@ -40,33 +40,33 @@
 
         "MAIN_CHANNEL": {
             "description": "ID of Your Main Channel.",
-            "value": ""
+            "value": "-1002304526911"
         },
 
         "BACKUP_CHANNEL": {
             "description": "If You Want Button Upload On Main Channel Don't Forget To Add Backup Channel becoz anime will be save in backup channel",
-            "value": ""
+            "value": "-1002393734211"
         },
 
         "LOG_CHANNEL": {
             "description": "Channel ID Where You Can Check Status Of Tasks.",
-            "value": ""
+            "value": "-1002324617204"
         },
 
         "CLOUD_CHANNEL": {
             "description": "Channel ID Where Bot Will Upload Samples And Screen Shots.",
-            "value": ""
+            "value": "-1002152491624"
         },
 
         "FORCESUB_CHANNEL": {
             "description": "Channel ID For ForceSub",
-            "value": "",
+            "value": "-1002323219195",
             "required": false
         },
 
         "FORCESUB_CHANNEL_LINK": {
             "description": "Channel Link Of ForceSub",
-            "value": "",
+            "value": "https://t.me/weoo_animes",
             "required": false
         },
 
